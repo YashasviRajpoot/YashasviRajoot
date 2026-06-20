@@ -30,7 +30,7 @@
 ---
 
 ### ⚡ About Me
-*   🌱 I am currently sharpening my skills in **Computer Science & Engineering**.
+*   🌱 I am currently sharpening my skills in **Java$ web devlopment enthiustic**.
 *   💬 Feel free to reach out to me for tech discussions, coding, or project collaborations.
 *   📫 How to reach me: [Your Email/LinkedIn]
 
