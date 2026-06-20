@@ -24,7 +24,7 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YashasviRajpoot&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashasviRajpoot&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashasviRajpoot&layout=compact&theme=tokyoda&hide_border=true" />
 </p>
 
 ---
