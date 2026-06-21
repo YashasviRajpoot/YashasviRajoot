@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Yashasvi Rajpoot! 👋</h1>
 
 <p align="center">
-  💻 CS & Engineering Student | Python & Web Dev Enthusiast
+  💻 CS & Engineering Student | Java & Web Dev Enthusiast
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@
 ---
 
 ### ⚡ About Me
-*   🌱 I am currently sharpening my skills in **Java$ web devlopment enthiustic**.
+*   🌱 I am currently sharpening my skills in **Java$ web devlopment enthusiast**.
 *   💬 Feel free to reach out to me for tech discussions, coding, or project collaborations.
 *   📫 How to reach me: [Your Email/LinkedIn]
 
